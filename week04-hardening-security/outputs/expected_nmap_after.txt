@@ -1,0 +1,11 @@
+# File: expected_nmap_after.txt
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2025-07-27 14:05 UTC
+Nmap scan report for 192.168.1.140
+Host is up (0.00032s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE VERSION
+2222/tcp open  ssh     OpenSSH 9.2p1 Debian 2 (protocol 2.0)
+MAC Address: 00:0C:29:AB:CD:EF (VMware)
+
+Nmap done: 1 IP address (1 host up) scanned in 3.12 seconds

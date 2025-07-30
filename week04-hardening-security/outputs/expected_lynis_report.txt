@@ -1,0 +1,48 @@
+# File: expected_lynis_report.txt
+
+[+] Initializing program
+------------------------------------
+  - Detecting OS... Kali Linux
+  - Detecting system and release... Kali GNU/Linux 2024
+  - Performing test ID LYNIS
+  - Checking profile file... /etc/lynis/default.prf
+
+[+] Hardening index : 70 [########      ]
+
+[+] Plugins enabled [none]
+
+[+] Security Tests
+------------------------------------
+[+] Kernel
+  - Kernel version: 6.9.0-kali1-amd64
+
+[+] Firewall
+  - Checking status of UFW                     [ ACTIVE  ]
+  - Default incoming policy                    [ DENY    ]
+  - Allowed TCP ports                          [ 2222    ]
+
+[+] SSH Support
+  - Port set to non-default                    [ 2222 ]
+  - Root login disabled                        [ OK   ]
+  - Password authentication enabled            [ WARNING ]
+    * Suggestion: Enforce key-based authentication only
+
+[+] File Permissions
+  - Checking world-writable files              [ WARNING ]
+    * /tmp/testfile.tmp is world-writable
+    * Suggestion: Audit world-writable files and remove if not needed
+
+[+] Logging
+  - Log file: /var/log/auth.log                [ FOUND  ]
+  - Log rotation active                        [ OK     ]
+
+[+] Suggestions
+------------------------------------
+  - Harden SSH: Disable password login, enforce key-based authentication
+  - Audit world-writable files and tighten permissions
+  - Review unnecessary packages or services
+  - Schedule Lynis audit via cron for regular review
+
+[+] Lynis audit finished.
+  - Report saved to: /var/log/lynis.log
+  - Hardening index: 70 [out of 100]

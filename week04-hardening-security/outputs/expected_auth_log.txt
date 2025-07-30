@@ -1,0 +1,8 @@
+# File: expected_auth_log.txt
+
+Jul 27 14:33:12 kali sshd[2982]: Failed password for secadmin from 192.168.1.50 port 53420 ssh2
+Jul 27 14:33:13 kali sshd[2986]: Failed password for secadmin from 192.168.1.50 port 53420 ssh2
+Jul 27 14:33:15 kali sshd[2989]: Failed password for secadmin from 192.168.1.50 port 53420 ssh2
+Jul 27 14:33:17 kali sshd[2991]: Failed password for secadmin from 192.168.1.50 port 53420 ssh2
+Jul 27 14:33:19 kali sshd[2994]: Failed password for secadmin from 192.168.1.50 port 53420 ssh2
+Jul 27 14:33:20 kali fail2ban.actions[1853]: NOTICE  [sshd] Ban 192.168.1.50

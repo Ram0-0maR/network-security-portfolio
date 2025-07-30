@@ -1,0 +1,8 @@
+# File: expected_fail2ban_log.txt
+
+2025-07-27 14:33:12,101 fail2ban.filter         [1853]: INFO    [sshd] Found 192.168.1.50 - 2025-07-27 14:33:12
+2025-07-27 14:33:13,267 fail2ban.filter         [1853]: INFO    [sshd] Found 192.168.1.50 - 2025-07-27 14:33:13
+2025-07-27 14:33:15,910 fail2ban.filter         [1853]: INFO    [sshd] Found 192.168.1.50 - 2025-07-27 14:33:15
+2025-07-27 14:33:17,422 fail2ban.filter         [1853]: INFO    [sshd] Found 192.168.1.50 - 2025-07-27 14:33:17
+2025-07-27 14:33:19,008 fail2ban.filter         [1853]: INFO    [sshd] Found 192.168.1.50 - 2025-07-27 14:33:19
+2025-07-27 14:33:20,567 fail2ban.actions        [1853]: NOTICE  [sshd] Ban 192.168.1.50
