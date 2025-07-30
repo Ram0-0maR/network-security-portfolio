@@ -8,7 +8,7 @@ This GitHub repository documents an 8–9 week self-guided summer exploration wh
 
 ## 🎓 Who Am I?
 
-I’ve just finished my *classe prépa intégrée*, and next year I’ll be entering the *cycle d’ingénieur* at my school. Before diving headfirst into a specialization, I wanted to **test-drive core areas of network and security engineering** — to see if I really enjoy this domain, or if my interests lie elsewhere like cloud, automation, or software.
+I’ve just finished my *classe prépa intégrée*, and next year I’ll be entering the *cycle d’ingénieur* at ENSA EL JADIDA. Before diving headfirst into a specialization, I wanted to **test-drive core areas of network and security engineering** — to see if I really enjoy this domain, or if my interests lie elsewhere like cloud, automation, or software.
 
 This portfolio is my **sandbox and compass** — a personal space where I experiment, reflect, and figure things out.
 
