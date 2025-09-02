@@ -2,7 +2,7 @@
 
 Welcome to my personal learning journey through the worlds of **networking, cybersecurity, and cloud engineering**.
 
-This GitHub repository documents an 8–9 week self-guided summer exploration where I rolled up my sleeves, built real labs, broke things on purpose, secured them, and reflected honestly on the process. It’s not just about learning tech — it's about discovering what excites me, where I struggle, and what kind of engineer I want to become.
+This GitHub repository documents an 7–9 week self-guided summer exploration where I rolled up my sleeves, built real labs, broke things on purpose, secured them, and reflected honestly on the process. It’s not just about learning tech — it's about discovering what excites me, where I struggle, and what kind of engineer I want to become.
 
 ---
 
